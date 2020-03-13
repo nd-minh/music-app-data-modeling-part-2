@@ -1,6 +1,6 @@
 # Database Modeling for a Music Streaming App (Part 2)
 
-(This project presents a NoSQL database model for a music streaming app, for a design of a relational database version of the app, please refer to Part 1 [here](https://github.com/nd-minh/music-app-data-modeling).)
+(This project presents a NoSQL database model for a music streaming app, for a design of a relational database version of the app, please refer to Part 1 [here](https://github.com/nd-minh/music-app-data-modeling). For a design of a Data Warehouse for this music app, please refer to the project [here](https://github.com/nd-minh/music-app-data-warehouse))
 
 In this project, our aim is to design a NoSQL database, i.e., Apache Cassandra, to store relevant data from a music streaming app. We are given the data as follows.
 
